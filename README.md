@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PriyanshiTrigunayat
 - 👀 I’m currently pursuing my master's degree in Statistics from University of Delhi
-- 🌱 I’m currently learning SQL & Python
+
   
 
 <!---
